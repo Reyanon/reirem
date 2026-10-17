@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="vita/sce_sys/icon0.png" width="128" alt="ReiREM icon">
+<img width="840" height="500" alt="bg" src="https://github.com/user-attachments/assets/7a15e32d-8011-4e36-afbe-4f50bc9e6bc4" />
 </p>
+
 
 <h1 align="center">ReiREM</h1>
 
